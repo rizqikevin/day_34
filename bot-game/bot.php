@@ -14,8 +14,8 @@ try {
     ]);
 
     $page->waitForSelector('#username');
-    $page->type('#username', 'username_kamu'); 
-    $page->type('#password', 'password_kamu'); 
+    $page->type('#username', 'jual122'); 
+    $page->type('#password', '@887Jual'); 
     
     $page->click('#submit-button'); 
     
